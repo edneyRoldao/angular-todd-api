@@ -1,0 +1,23 @@
+{
+  "name": "angular-todd-api",
+  "version": "1.0.0",
+  "description": "- Simples projeto escrito em node para ser utilizado nos exemplos nas aulas de criacao de servicos Http com Angular. - link do projeto de estudo: https://github.com/edneyRoldao/angular-todd-course - os exemplos que utilizam esse projeto, iniciam a partir da branch: 20-...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edneyRoldao/angular-todd-api.git"
+  },
+  "author": "edney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edneyRoldao/angular-todd-api/issues"
+  },
+  "homepage": "https://github.com/edneyRoldao/angular-todd-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
